@@ -9,3 +9,5 @@ the code was finaly not finished but i work on it. (2023)<br>
 check my [padlet](https://padlet.com/melatroid/teachable-4-axis-robot-76tei2afyrk9qz5y) <br>
 <br>
 i hope you can find some help here, for your own ideas<br>
+<br>
+thx to all the guys how create all these crasy libarys that i used!
