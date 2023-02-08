@@ -1,5 +1,5 @@
 # Robot-Arduino<br>
-a big example for building a robot with arduino.<br>
+a big example for building a [robot](https://youtube.com/shorts/eDm-8F4d0BA) with arduino.<br>
 with complete SD-Card I/O <br>
 
 this project was created for my final work.<br>
