@@ -1,7 +1,12 @@
 # Robot-Arduino<br>
 a big example for building a [robot](https://youtube.com/shorts/eDm-8F4d0BA) with arduino.<br>
 with complete SD-Card I/O <br>
-
+<br>
+Motors that i used:<br>
+tb6600 driver<br>
+nema 17 motor<br>
+mg995 servomotors<br>
+<br>
 this project was created for my final work.<br>
 sry but a lot of comments are in german<br>
 
